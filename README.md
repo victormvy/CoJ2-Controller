@@ -19,7 +19,7 @@ CoJ2 Controller is a software that was created in 2013 for the game Call of Juar
 - Automatic custom maps download (deprecated feature as cojmodding.com is dead).
 
 ## How does CoJ2 Controller work?
-As, CoJ2 did not include any dedicated server communication interface, the communication from the server to CoJ2 Controller is made through the log files that the dedicated server generates. Every line of these logs are processed by CoJ2 Controller and, in this way, a state of the game is manually generated (including current gamemode, map, list of players, team of players...).
+As, CoJ2 did not include any dedicated server communication interface, the communication from the server to CoJ2 Controller is made through the log files that the dedicated server generates. Every line of these logs is processed by CoJ2 Controller and, in this way, a state of the game is manually generated (including current gamemode, map, list of players, team of players...).
 On the other hand, the communication between CoJ2 Controller and the server is made by directly sending commands to the server console.
 
 ## Installation
